@@ -1,0 +1,2 @@
+FROM https://k8s.gcr.io/v2/kube-scheduler:v1.18.3
+MAINTAINER jxh
